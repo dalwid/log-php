@@ -1,0 +1,1 @@
+ [{"file":"C:\\Log-php\\public\\index.php","line":12,"function":"query","class":"PDO","type":"->"}]|DataBase Error|22/05/2023 18:34:40

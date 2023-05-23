@@ -1,0 +1,16 @@
+{
+    "name": "meulog-php/log-php",
+    "description": "meu log para reutilizar em qualquer projeto",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Teixeira Pereira Ferreira",
+            "email": "davidbenavraham.ti@gmail.com"
+        }
+    ],
+    "require": {}
+}
